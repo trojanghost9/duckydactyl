@@ -1,0 +1,9 @@
+REM Simple test for andriod to pull up hackerman on the browser
+DELAY 2000
+STRING i
+DELAY 500
+STRING .ytimg.com/vi/KEkrWRHCDQU/maxresdefault.jpg
+DELAY 500
+ENTER
+
+REM F10 <- settings in browser

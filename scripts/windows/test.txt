@@ -1,0 +1,11 @@
+REM java -jar duckencode.jar -i test.txt -o inject.bin -l us
+REM simple hello world test
+DELAY 5000
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 750
+STRING Always lock your laptop :-)
+ENTER
